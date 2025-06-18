@@ -14,4 +14,3 @@ This project demonstrates how activation functions (like ReLU) enable neural net
 - Visualizes decision boundaries for both datasets
 - Shows limitations of linear models
 
-## Run
